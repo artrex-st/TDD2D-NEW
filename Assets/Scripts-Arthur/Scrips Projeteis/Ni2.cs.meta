@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6e79e286f3baa464cbbeb576b17665ec
+timeCreated: 1443394083
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gelo: {fileID: 5060938, guid: 22b9ef1d34d0e8546b1577f24fc0de40, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
